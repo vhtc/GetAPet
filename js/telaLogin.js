@@ -14,7 +14,7 @@ function sectionTela() {
         <h5>Senha</h5>
         <input type='password'></input>
         <p>
-            <a>Esqueci minha senha</a>
+            <a href='#CadastrarSenha'>Esqueci minha senha</a>
         </p>
         <p>
             <button class='verde'>Entrar</button>
@@ -22,6 +22,6 @@ function sectionTela() {
         </p>
     
     </section>`
-    
+
     return x
 }

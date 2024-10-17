@@ -17,7 +17,10 @@ function sectionLogo() {
 
 function sectionNavigation() {
     let x = `<section id="sectionNavigation">
-            <i class="fa-solid fa-bars"></i>
+        <a onclick='iniciarLogin()'>Login</a>
+        <a onclick='iniciarCadastro()'>Cadastrar</a>    
+        
+        <i class="fa-solid fa-bars"></i>
     </section>`
 
     return x
