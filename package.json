@@ -1,0 +1,12 @@
+{
+  "name": "horariosremedios",
+  "version": "1.0.0",
+  "description": "Projeto para adicionar listar os horarios de remedios (provavel em classes e objetos + json)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vhtc",
+  "license": "ISC",
+  "type": "module"
+}
